@@ -20,6 +20,7 @@ Add the /.env folder to the root of the application
 fill in the data
 postgress database settings
 
+```json{
 PORT = 5000
 DB_NAME = testTaskReactTable
 DB_USER = name db user
@@ -27,8 +28,9 @@ DB_PASSWORD = db password
 DB_HOST = localhost
 DB_PORT = db port value
 SECRET_KEY = secret 
+}
+```
 
-`
 
 ### API Documentation 
 
