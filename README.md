@@ -17,8 +17,8 @@ Add the /.env folder to the root of the application
 `
 .env content:
 
-`fill in the data`
-`postgress database settings`
+fill in the data
+postgress database settings
 
 PORT = 5000
 DB_NAME = testTaskReactTable
