@@ -45,9 +45,9 @@ const SortDiplay = (props) => {
   }
 
   const filtrationByContains = (contains) => {
-
-    changeContains(form.value);
-    props.filtration(contains, form.value);
+    props.returnInitialDataTable()
+    changeContains(form.value)
+    props.filtration(contains, form.value)
 
   }
 
