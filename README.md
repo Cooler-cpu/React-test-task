@@ -28,7 +28,7 @@ DB_PASSWORD = db password
 DB_HOST = localhost
 DB_PORT = db port value
 SECRET_KEY = secret 
-}
+
 ```
 
 
